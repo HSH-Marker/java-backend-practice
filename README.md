@@ -38,7 +38,7 @@ CREATE TABLE IF NOT EXISTS student (
 1. 把项目拷到本地（或 GitHub 页面 Download ZIP），用 IDEA 打开这个文件夹即可，不用单独复制文件。
 
 ```bash
-git clone <你的仓库地址>
+git clone  <git clone git@github.com:HSH-Marker/java-backend-practice.git>
 ```
 
 2. 在 MySQL Workbench 里插入 4 条测试数据并验证：
